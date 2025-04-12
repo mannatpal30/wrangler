@@ -1,0 +1,7 @@
+1. Modify the CDAP Wrangler grammar to include Byte Size and Time Duration unit parsers.
+2. Implement parsing logic for Byte Size units like KB, MB, GB, etc.
+3. Add parsing support for Time Duration units like seconds, minutes, hours, and days.
+4. Update the CDAP Wrangler API to integrate the new Byte Size and Time Duration parsers.
+5. Create an aggregate directive that can handle the new Byte Size and Time Duration units.
+6. Test the newly implemented Byte Size and Time Duration parsers.
+7. Add unit and integration tests for the new features (Byte Size, Time Duration, and aggregate directive).
